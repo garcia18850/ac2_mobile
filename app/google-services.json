@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288515720471",
+    "project_id": "ac2new",
+    "storage_bucket": "ac2new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288515720471:android:b15b7d9017d5b809e76352",
+        "android_client_info": {
+          "package_name": "com.ac2simulado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlb0VijAV10KboSHvDPLM3Ec77Iqh0DEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CineTracker - Filmes e Séries</string>
+    <string name="title_app">CineTracker</string>
+    <string name="subtitle_app">Cadastre e organize seus filmes e séries</string>
+    <string name="header_cadastro">Cadastrar Filme / Série</string>
+    <string name="header_edicao">Editando Obra</string>
+    <string name="label_nome">Nome da obra</string>
+    <string name="hint_nome">Ex: O Poderoso Chefão, Breaking Bad...</string>
+    <string name="label_tipo">Tipo</string>
+    <string name="label_genero">Gênero</string>
+    <string name="label_ano">Ano de lançamento</string>
+    <string name="hint_ano">Ex: 2024</string>
+    <string name="label_nota">Nota pessoal (0.0 a 10.0)</string>
+    <string name="hint_nota">Ex: 9.5</string>
+    <string name="label_assistido">Já assistiu?</string>
+    <string name="btn_salvar">Salvar no Firebase</string>
+    <string name="btn_atualizar">Atualizar Registro</string>
+    <string name="btn_cancelar">Cancelar Edição</string>
+    <string name="header_listagem">Minhas Obras Cadastradas</string>
+    <string name="hint_busca">Buscar por nome...</string>
+    <string name="label_filtro_assistidos">Apenas assistidos</string>
+    <string name="empty_list">Nenhuma obra cadastrada ou encontrada com esses filtros.</string>
+    <string name="msg_erro_nome">O nome não pode estar vazio!</string>
+    <string name="msg_erro_tipo">Selecione um tipo válido!</string>
+    <string name="msg_erro_genero">Selecione um gênero válido!</string>
+    <string name="msg_erro_ano">Digite um ano de lançamento válido!</string>
+    <string name="msg_erro_nota">Digite uma nota válida entre 0.0 e 10.0!</string>
+    <string name="msg_sucesso_salvar">Salvo no Firebase com sucesso!</string>
+    <string name="msg_sucesso_atualizar">Registro atualizado no Firebase!</string>
+    <string name="msg_sucesso_excluir">Registro excluído do Firebase!</string>
+    <string name="msg_erro_firebase">Erro ao comunicar com o Firebase: </string>
+    <string name="confirm_delete_title">Confirmar Exclusão</string>
+    <string name="confirm_delete_message">Deseja realmente excluir "%s"? Essa ação não poderá ser desfeita.</string>
+    <string name="btn_sim">Sim, Excluir</string>
+    <string name="btn_nao">Cancelar</string>
+    <string name="tooltip_acoes">Clique curto: editar | Clique longo: excluir</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="primary_blue">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="accent_gold">#FFA000</color>
+    <color name="status_watched">#2E7D32</color>
+    <color name="status_to_watch">#0288D1</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="red_delete">#D32F2F</color>
+</resources>
